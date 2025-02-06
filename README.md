@@ -11,19 +11,19 @@ The implented attacers are:
 2. **Random Attacker**
 3. **MAD Attacker [3]**
 4. **Gradient Attacker [2]**
-5. **Max-Cost attacker [5]**
-6. **Max-Reward attacker [6]**
+5. **Max-Cost attacker [4]**
+6. **Max-Reward attacker [4]**
 
 
 
 ## References
-[1] Adversarial Attacks on Neural Network Policies.
+[1] Huang, Sandy, et al. "Adversarial attacks on neural network policies." arXiv preprint arXiv:1702.02284 (2017).
 
-[2] Pattanaik, A., Tang, Z., Liu, S., Bommannan, G., Chowdhary, G.: Robust deep reinforcement learning with adversarial attacks. arXiv preprint arXiv:1712.03632 (2017)
+[2] Pattanaik, Anay, et al. "Robust deep reinforcement learning with adversarial attacks." arXiv preprint arXiv:1712.03632 (2017).
 
-[3] Robust Deep Reinforcement Learning against  Adversarial Perturbations on State Observations
+[3] Zhang, Huan, et al. "Robust deep reinforcement learning against adversarial perturbations on state observations." Advances in Neural Information Processing Systems 33 (2020): 21024-21037.
 
-[4] On the Robustness of Safe Reinforcement Learning under Observational Perturbations.
+[4] Liu, Zuxin, et al. "On the robustness of safe reinforcement learning under observational perturbations." arXiv preprint arXiv:2205.14691 (2022).
 
 
 ## Installation
